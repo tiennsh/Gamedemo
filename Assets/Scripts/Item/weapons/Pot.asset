@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6b55dfbfa3573143b6fb2d4e60bbd43, type: 3}
+  m_Name: Pot
+  m_EditorClassIdentifier: 
+  itemCode: 10
+  itemType: 1
+  itemSprite: {fileID: -7813046307721338186, guid: 9fc8e20b9e33e3f4598cd7f1f2cb0aad, type: 3}
+  itemName: "Th\xF9ng g\u1ED7"
+  itemDescription: 
+  isUse: 1
+  itemMax: 99
